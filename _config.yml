@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Satoshi Matsuzawa / Satoshi Matsuzawa's Webpage"
+title                    : "Satoshi Matsuzawa's Webpage"
 title_separator          : "-"
-name                     : &name "Satoshi Matsuzawa"
-description              : &description "I am an independent researcher in Economics"
+name                     : #&name "Satoshi Matsuzawa"
+description              : #&description "I am an independent researcher in Economics"
 url                      : https://satoshimatsuzawa.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "satoshimatsuzawa/satoshimatsuzawa.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : #"profile.png"
   name             : "Satoshi Matsuzawa"
   pronouns         : # example: "she/her"  
-  bio              : "I am an independent researcher in Economics."
+  bio              : "I am an independent researcher in Economics with a Ph.D. from Yale University."
   location         : "Tokyo, Japan"
   employer         : #"Red Brick University"
   uri              : # URL
