@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Satoshi Matsuzawa's Webpage"
+title                    : "Satoshi's Webpage"
 title_separator          : "-"
 name                     : #&name "Satoshi Matsuzawa"
 description              : #&description "I am an independent researcher in Economics"
