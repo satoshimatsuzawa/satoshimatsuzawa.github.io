@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Welcome to Satoshi Matsuzawa's Academic Website"
 author_profile: true
