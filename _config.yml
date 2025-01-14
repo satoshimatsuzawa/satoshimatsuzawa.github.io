@@ -21,7 +21,7 @@ repository               : "satoshimatsuzawa/satoshimatsuzawa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "profile_photo.png"
   name             : "Satoshi Matsuzawa"
   pronouns         : # example: "she/her"  
   bio              : "I am an independent researcher in Economics with a Ph.D. from Yale University."
